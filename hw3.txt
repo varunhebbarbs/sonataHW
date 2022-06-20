@@ -1,0 +1,5 @@
+int s, a=10, b=10;
+void main{
+s=a+b;
+}
+printf("sum",s);
