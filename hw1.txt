@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 modified main file
+=======
+hw1 is on branch Bugfix
+>>>>>>> Bugfix
 "modified program"
 public class MyClass{
    public static void main(String[] args)
